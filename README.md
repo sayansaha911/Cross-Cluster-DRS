@@ -1,6 +1,6 @@
 # VMware Cross Cluster DRS with PowerCLI
 
-This repo has code wich does the following:
+This repo has code which does the following:
 
 1. Periodically checks source cluster datastores and compute resource utilization.
 2. If storage/compute resource is high then it moves VMs across to a different cluster.
